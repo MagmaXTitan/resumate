@@ -18,12 +18,12 @@ The system integrates **AI assistance** to generate impactful bullet points, sug
 
 ## 🧩 Tech Stack  
 
-**Frontend:** React.js / Next.js (TailwindCSS for styling)  
-**Backend:** Node.js / Express.js  
-**Database:** MongoDB / Firebase  
-**AI Integration:** OpenAI GPT API (for generating suggestions and descriptions)  
+**Frontend:** React.js(TailwindCSS for styling)  
+**Backend:** Node.js  
+**Database:** JDBC  
+**AI Integration:** Gemini API (for generating suggestions and descriptions)  
 **Authentication:** Firebase Auth / JWT  
-**PDF Generation:** jsPDF / Puppeteer  
+**PDF Generation:** jsPDF  
 
 ---
 
