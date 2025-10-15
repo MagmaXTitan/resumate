@@ -1,7 +1,7 @@
 # 🧠 Resume Builder with AI Assistance  
 
 A modern **AI-powered Resume Builder** that helps users **create, edit, and enhance** professional resumes in minutes.  
-The system integrates **AI assistance** to generate impactful bullet points, suggest skill improvements, and tailor resumes for specific job roles.  
+The system integrates **AI assistance** to generate impactful bullet points, suggest skill improvements, and tailor resumes for specific job roles.
 
 ---
 
